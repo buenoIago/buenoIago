@@ -63,7 +63,7 @@
 Organizador pessoal desenvolvido em ASP.NET Core MVC, com módulos de Despesas, Categorias, Tarefas, Contatos e Compromissos, seguindo arquitetura DDD e persistência via Dapper no Azure SQL.
 
 ### [EscolaDeCursos](https://github.com/GuardioesCodigo/EscolaDeCursos)
-Sistema de gestão de cursos e matrículas desenvolvido em C#, com cadastro de cursos, alunos e controle de matrículas — construído em parceria com a comunidade GuardiõesCódigo.
+Sistema de gestão de cursos em C#, com cadastro de cursos, turmas, instrutores e alunos, além de controle de matrículas com validação de capacidade e regras de negócio.
 
 <br>
 
