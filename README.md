@@ -68,15 +68,6 @@ Sistema de gestão de cursos em C#, com cadastro de cursos, turmas, instrutores 
 <br>
 
 <div align="center">
-
-<br>
-📊 Gráfico de contribuições
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buenoIago&theme=github-compact&hide_border=true&area=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff" alt="Gráfico de contribuições" />
-</div>
-<br>
-<div align="center">
 Vamos conversar? Me chama no LinkedIn 👋
 
 </div>
